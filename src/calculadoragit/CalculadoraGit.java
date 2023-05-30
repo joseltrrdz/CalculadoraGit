@@ -21,4 +21,11 @@ public class CalculadoraGit {
         return numUno-numDos;
     }
     
+    public static int Suma(int numUno, int numDos){
+        return numUno+numDos;
+    }
+    
+    public static int Multiplicacion(int numUno, int numDos){
+        return numUno*numDos;
+    }
 }
