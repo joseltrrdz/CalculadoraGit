@@ -14,7 +14,11 @@ public class CalculadoraGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+    }
+    
+    public static int Resta(int numUno, int numDos){
+        return numUno-numDos;
     }
     
 }
